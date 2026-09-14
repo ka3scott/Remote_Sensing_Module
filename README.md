@@ -5,8 +5,8 @@ There is both an ice concentration activity and a sea surface temperature activi
 
 For the SAR data, there are some questions in the slide deck and follow up activities suggested at the end.
 
-For the sea ice concentration and sea surface temperature activities, please let me know if you are interested in these activities. I would be happy to send you the data. 
-You can also get the data yourself by generating a login at the various data providers (below)
+For the sea ice concentration and sea surface temperature activities, please let me know if you are interested in these activities (ka3scott@uwaterloo.ca). 
+I would be happy to send you the data. You can also get the data yourself by generating a login at the various data providers (below)
 
 Sea Ice Concentration Activity:
 
